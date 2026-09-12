@@ -1,0 +1,42 @@
+# Dataset files
+data/*.csv
+data/*.xlsx
+data/*.json
+!data/README.md
+
+# Trained model artifacts
+models/*.pkl
+models/*.joblib
+!models/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
