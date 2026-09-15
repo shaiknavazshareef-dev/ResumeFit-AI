@@ -5,14 +5,14 @@
 
 **Instantly see how well a resume matches a job — with a fit score, predicted job category, and a full skill gap breakdown.**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://salma-resumefit-ai.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://resume-fitai.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-TF--IDF-8A2BE2?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-2E8B57?style=for-the-badge)
 
-**🔗 Try it live: [salma-resumefit-ai.streamlit.app](https://salma-resumefit-ai.streamlit.app/)**
+**🔗 Try it live: [Shareef-resumefit-ai.streamlit.app](https://resume-fitai.streamlit.app/)**
 
 </div>
 
@@ -46,7 +46,7 @@ It combines three components into one Streamlit dashboard:
 
 ## 🖥️ Live Demo
 
-**👉 [salma-resumefit-ai.streamlit.app](https://salma-resumefit-ai.streamlit.app/)**
+**👉 [salma-resumefit-ai.streamlit.app](https://resume-fitai.streamlit.app/)**
 
 Upload a resume PDF, paste a job description, and hit **Analyze** to see it in action.
 
